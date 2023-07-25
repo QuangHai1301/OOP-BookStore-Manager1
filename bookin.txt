@@ -1,0 +1,5 @@
+A1,Toi Thay Hoa,65000,NNA
+B5,Upin & Ipin,30000,MLA
+C5,7 Vien Ngoc Rong,15000,ANM
+D1,Conan,20000,JPN
+B1,Than Dong Dat Viet,20000,NXB
